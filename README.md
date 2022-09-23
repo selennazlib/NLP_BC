@@ -1,7 +1,8 @@
 # NLP-BC
- It's a repository that contains my all the cheatsheets and projects related to NLP.
+>**It's a repository that contains my all the cheatsheets and projects related to NLP.**
 
-RNN: Recurrent neuron is send to output back to itself.
+
+### RNN: Recurrent neuron is send to output back to itself.
 
 ![img](https://snipboard.io/6gSnJ1.jpg)
 
